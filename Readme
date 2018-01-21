@@ -1,0 +1,17 @@
+
+Version 2.0
+
+1) Run Dataset creator.py
+2) An image is fed to the creator
+3) Id and Name is given
+4) A folder is made inside dataSet folder in which the converted image (grayscale) is made
+5) the trainer trains itself by going inside the new folder
+6) then the folder is moved to another folder called Faces where all the face will be kept in their respective named data base.
+7) Addded Automated increment of ID. 
+8) Made Fresh Database
+9) IF downloading from Github, make a directory named as "Faces database" in root folder as github doesnt show empty directory
+10) Added video recognition feature.
+11) Added video data creation feature.
+12) Red = Unrecognized, Blue= Recognized, Green= Detected
+13) conf<80 recognizes more efficiently
+
